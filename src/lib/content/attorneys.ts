@@ -5,7 +5,7 @@ export const attorneys = [
     slug: "dwight-davis",
     name: "Dwight Davis",
     title: "Founding Partner",
-    image: "https://images.unsplash.com/photo-1560250097-0b93528c311a" as string | undefined,
+    image: "/images/attorneys/dwight-davis.jpg" as string | undefined,
     practiceAreas: ["business-corporate", "employment-law"],
     bio: "Dwight founded the firm on the idea that business owners deserve a lawyer who understands the deal, not just the document.",
     longBio:
@@ -43,7 +43,7 @@ export const attorneys = [
     slug: "marcus-whitfield",
     name: "Marcus Whitfield",
     title: "Attorney at Law, Head of Wills, Estates and Trusts",
-    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7" as string | undefined,
+    image: "/images/attorneys/marcus-whitfield.jpg" as string | undefined,
     practiceAreas: ["estate-planning"],
     bio: "Marcus leads the Wills, Estates and Trusts practice at Dwight Davis & Associates, advising clients across Illinois on wills, estate planning, and trust administration.",
     longBio:
